@@ -1,0 +1,2 @@
+# Pelican
+blog static
